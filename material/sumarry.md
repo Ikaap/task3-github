@@ -13,7 +13,7 @@ Git merupakan salah satu version control system populer yang digunakan para deve
 **Github** merupakan Git hosting service yang membantu developer menyimpan dan mengelola kode yang dibuat, serta melacak dan mengontrol perubahan pada kode tersebut.
 
 ## Perintah-perintah yang biasa digunakan di Github
-- **git init**, digunakan untuk inisialisasi repository.
+- **git init**, digunakan untuk inisialisasi repository di local.
 - **git clone**, digunakan untuk mendownload repository dari server ke device user.
 - **git config**, digunakan untuk proses configurasi ketika baru pertama kali menggunakan github.
 - **git status**, digunakan untuk menampilkan informasi/status file di repository lokal.
@@ -29,3 +29,5 @@ Git merupakan salah satu version control system populer yang digunakan para deve
 - **git branch**, digunakan untuk membuat sebuah branch.
 - **git merge**, digunakan untuk menggabungkan dua branch menjadi satu.
 - **pull request**, digunakan untuk mengabungkan dua branch menjadi satu namun code harus direview terlebih dahulu sebelum digabungkan.
+
+

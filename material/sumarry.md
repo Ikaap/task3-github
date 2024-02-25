@@ -30,4 +30,9 @@ Git merupakan salah satu version control system populer yang digunakan para deve
 - **git merge**, digunakan untuk menggabungkan dua branch menjadi satu.
 - **pull request**, digunakan untuk mengabungkan dua branch menjadi satu namun code harus direview terlebih dahulu sebelum digabungkan.
 
-
+## Workflow
+**Tips**
+1. Buat branch development dari master/main
+2. Hindari direct edit ke branch development
+3. Merge branch feature hanya ke development 
+4. Merge branch development ke branch master/main jika proses development sudah selesai
